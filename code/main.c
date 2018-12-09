@@ -2,8 +2,8 @@
 #include<string.h>
 
 #define CERO	{1,1,1,0,1,1,1}
-#define UNO		{0,0,0,0,0,1,1}
-#define DOS		{1,0,1,1,1,0,1}
+#define UNO 	{0,0,0,0,0,1,1}
+#define DOS 	{1,0,1,1,1,0,1}
 #define TRES	{0,0,1,1,1,1,1}
 #define CUATRO	{0,1,0,1,0,1,1}
 #define CINCO	{0,1,1,1,1,1,0}
